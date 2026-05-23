@@ -1,4 +1,7 @@
 # learning-lab
+
 A collection of small C++ and Python projects built while learning and experimenting.
 
-1- law of reflection visualization
+## Projects
+
+1. [Law of reflection visualization](MATH109project.py) - A Python project proving the law of reflection using calculus and Fermat's Principle.
